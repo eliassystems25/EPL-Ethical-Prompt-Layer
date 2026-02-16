@@ -54,7 +54,7 @@ EPL encodes a repeatable governance method — not a person, ideology, or belief
 - Privacy by default
 - No surveillance alignment
 - Repair over punishment
-- Clarity over control
+- Clarity over control 
 - 
 - 
 ## High-Level Processing Flow
