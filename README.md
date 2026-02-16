@@ -1,103 +1,89 @@
-# EPL — Ethical Prompt Layer
-
-EPL (Ethical Prompt Layer) is a **safety-first, trauma-aligned prompting framework**
-that helps AI systems prevent manipulative, harmful, or surveillance-aligned
-instruction flows — **without reducing capability**.
-
+EPL™ — Ethical Prompt Layer
+Public Governance Specification
+EPL™ (Ethical Prompt Layer) is a structured governance routing framework designed to organise how AI systems interpret, classify, and respond to user inputs within regulated and high-trust environments.
+It provides a safety-first decision-routing layer that reduces manipulative, harmful, or unstable instruction flows — without diminishing underlying model capability.
 EPL does not replace AI intelligence.
-It provides **governance, routing, and guardrails** that organise how existing
-intelligence is applied.
-
----
-
-## What EPL Is
-
-EPL is a framework that:
-- Interprets user intent before responding
-- Identifies risk categories (normal, sensitive, high-stakes, harmful)
-- Applies guardrails where needed
-- Redirects unsafe requests into safe alternatives
-- Refuses only when necessary
-- Preserves clarity, usefulness, and dignity
-
-EPL is designed to reduce harm **without suppressing intelligence**.
-
----
-
-## What EPL Is Not
-
-EPL is **not**:
-- A new AI model
-- A surveillance system
-- A biometric or tracking tool
-- A censorship engine
-- A moral judgement system
-- A claim of ethical perfection
-
-EPL does not encode a person.
-It encodes a **repeatable method**.
-
----
-
-## Core Principles
-
-- Human dignity first
-- Trauma-informed interaction
-- Non-coercion
-- Capability preservation
-- Privacy by default
-- No surveillance alignment
-- Repair over punishment
-- Clarity over control
-
----
-
-## How EPL Works (High Level)
-
-1. User input is received  
-2. Intent is identified  
-3. Risk is classified  
-4. A route is selected:
-   - Allow8
-   - Allow with guardrails
-   - Clarify
-   - Refuse + safe alternative  
-5. Response is generated  
-6. Post-check is applied  
-7. Repair loop runs if needed  
-
----
-
-## Use Cases
-
-- Ethical AI prompting
-- Trauma-informed assistants
-- Youth safety tools
-- Education and learning systems
-- Support and guidance systems
-- Security-aware (non-abusive) tooling
-- Public-interest AI deployments
-
----
-
-## Status
-
-This repository provides the **reference framework, documentation, and templates**
-for implementing EPL in any AI system.
-
-Code implementations may vary.
-The framework remains model-agnostic.
-
----
-
-## License
-
-This project uses a **custom ethical license**.
-See `LICENSE.md` once added.
-
----
-
-## Maintained by
-
-Elias Systems / TBW  
-Wolverhampton, UK
+It structures how intelligence is applied.
+Scope
+Governance routing
+Intent classification
+Behavioural risk categorisation
+Guardrail application logic
+Structured refusal & redirection protocols
+Post-response stability validation
+EPL is model-agnostic and may be integrated into any AI-supported decision environment.
+What EPL Provides
+EPL introduces a repeatable governance method that:
+Interprets user intent before response execution
+Classifies behavioural risk (normal, sensitive, high-stakes, harmful)
+Applies structured guardrails proportionate to risk
+Redirects unsafe instructions into safe alternatives
+Limits refusals to necessary conditions
+Preserves clarity, usefulness, and user dignity
+Enables post-response stability checks
+Supports repair-loop reprocessing where needed
+EPL is designed to reduce harm without suppressing intelligence or degrading capability.
+Governance Positioning
+EPL functions as:
+A behavioural routing layer
+An interpretive governance protocol
+A guardrail enforcement structure
+A decision-path stabilisation mechanism
+It is not a model, filter, or surveillance tool.
+What EPL Is Not
+EPL is not:
+A standalone AI model
+A surveillance architecture
+A biometric or tracking system
+A censorship engine
+A moral enforcement mechanism
+A claim of ethical perfection
+EPL encodes a repeatable governance method, not a person, belief system, or ideology.
+Core Design Principles
+Human dignity prioritisation
+Trauma-informed interaction logic
+Non-coercive response structures
+Capability preservation
+Privacy by default
+No surveillance alignment
+Repair over punishment
+Clarity over control
+High-Level Processing Flow
+Input received
+Intent classification
+Risk categorisation
+Routing selection:
+Allow
+Allow with guardrails
+Clarify
+Refuse + safe alternative
+Response generation
+Post-response validation
+Repair-loop activation (if instability detected)
+Example Governance Use Cases
+AI governance diagnostics
+Trauma-informed assistant systems
+Youth safety environments
+Educational AI deployment
+Security-aware (non-abusive) interaction routing
+Public-interest AI infrastructure
+Relationship to Elias Systems Governance Stack
+EPL operates alongside:
+EBOS™ — Behavioural modelling architecture
+Love Formula™ — Relational integrity modelling
+97/3 Immutable Core — Structural stability framework
+Together, these form a layered governance stack for AI-supported decision ecosystems.
+Status
+This repository provides:
+Reference documentation
+Governance routing specifications
+Example templates
+Integration logic notes
+Implementation details may vary by environment.
+This repository does not constitute regulatory certification.
+Licensing
+This framework is released under a structured ethical license.
+Commercial licensing available via Elias Systems Ltd.
+Maintained By
+Elias Systems Ltd
+United Kingdom
