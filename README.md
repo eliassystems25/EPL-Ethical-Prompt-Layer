@@ -55,14 +55,7 @@ EPL encodes a repeatable governance method — not a person, ideology, or belief
 - No surveillance alignment
 - Repair over punishment
 - Clarity over control
-- Human dignity prioritisation
-- Trauma-informed interaction logic
-- Non-coercive response structures
-- Capability preservation
-- Privacy by default
-- No surveillance alignment
-- Repair over punishment
-- Clarity over control
+- 
 - 
 ## High-Level Processing Flow
 1. User input received  
