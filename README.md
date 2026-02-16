@@ -55,8 +55,8 @@ EPL encodes a repeatable governance method — not a person, ideology, or belief
 - No surveillance alignment
 - Repair over punishment
 - Clarity over control 
-- 
-- 
+  
+
 ## High-Level Processing Flow
 1. User input received  
 2. Intent identified  
@@ -69,8 +69,8 @@ EPL encodes a repeatable governance method — not a person, ideology, or belief
 5. Response generated  
 6. Post-response validation  
 7. Repair loop activation (if instability detected)
-8. 
-9. 
+   
+
 ## Governance Positioning
 EPL operates as:
 
